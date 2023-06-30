@@ -49,11 +49,17 @@ Consist of a homepage and four corresponding dashboards were designed to provide
 
 <img width="1005" alt="Screenshot 2023-06-29 at 9 35 49 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/a7df1419-8966-4c8d-8b66-c86f3e0c2f42">
 
-## Station Information 
+## Station Information with Analysis 
 
-* Provides information on cumulative number of start and end stations, the total bikes used and the total trip duration of bike rides. There is also an alaysis of popular stations to start and end a journey. Furthermore, one can see the distance traveled by different bikes in the station.
+* Provides information on cumulative number of start and end stations, the total bikes used and the total trip duration of bike rides. There is also an analysis of popular stations to start and end a journey. Furthermore, one can see the distance traveled by different bikes in the station.
   
 <img width="1007" alt="Screenshot 2023-06-29 at 9 37 33 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/686025bf-e541-4a18-9408-d567389743e5">
+
+* Based on the gathered data, there seems to be more end stations compared to start stations. 
+* The bubble chart shows the top ten start and end stations. It can be seen that South Waterfront Walkway - Sinatra Dr & 1 St to South Waterfront Walkway - Sinatra Dr & 1 St 0 are the most frequent stations for starting and ending trips, with a total of 1, 128 trips. 
+* The line chart of 'Average Distance Traveled' shows a steady rise in distance traveled progressing into May and June. This could be due to the warmer season in this time of year and lack of snowy conditions which would significantly lower the length of bike trips. 
+* The total distance traveled by classic bikes far exceeds the other two bike types. 
+
 
 ## Trip Information 
 
@@ -61,17 +67,40 @@ Consist of a homepage and four corresponding dashboards were designed to provide
   
 <img width="1004" alt="Screenshot 2023-06-29 at 9 37 45 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/d478771f-299a-414e-a81d-257f8260f958">
 
+* Based on this dashboard, it can be seen that bike usage increased overall each month and that it is more frequently used during the weekdays as compared to weekends. This May, bikes were most frequently used on Wednesdays and least frequently used on Saturdays. There is a similar trend for the other months. This may be attributed to the proximity of biking stations to one's office or home and the ease of using it. Perhaps more people prefer to get away from the city on weekends and hence relativly less bikes are used from Citibike's program. The statistical analysis also showed the precent of increase in bike usage with May making up 40.04%. 
+
+* More bike rides were taken with classic bikes in comparison to the rest. Electric bikes might require periodic charging, and docked bikes might be limited by the total time of use available. 
+
+
 ## User Information 
 
 * Presents a heatmap of bike usage based on weekdays and specific time of day. This page also includes info on member status. 
 
 <img width="1009" alt="Screenshot 2023-06-29 at 9 37 57 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/5c7e68b2-0040-4881-a47b-06da85484aec">
 
+* Based on the data from the recent three months, bike stations are most busy on Wednesdays at 6pm with a total of 4, 597 trips. Weekdays between 5 and 6pm seems to be the prime time for bike usage. This is most probably associated with the time when people finish work and school for the day and head off to other destiantions using the bike. It is also quite busy at 8 am on weekdays, which may further support the hypothesis that bikes may be used to get to work/school. 
+
+* There are more bike riders who are members vs. casual and the number of members has grown from March to May. This may suggest that more people rely on the Citibike program for their daily commutes. Although, the duration of trip time measured in minutes is greater for casual bike riders, this may just provide an implication that members are faster bike riders and require less time to get to their final destinations. 
+
 ## Map 
 
-* Incldues maps for popular starting and ending stations. 
+* Incldues the geographical locations of start and end stations. 
 
 <img width="1005" alt="Screenshot 2023-06-29 at 9 38 08 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/db346518-2442-4270-8e16-8ebe509ae310">
+
+
+* These maps present the collection of start and end stations from March till May, 2023. It can be seen that the concentration of most frequently used stations fall in the zipcode of 070302 and 07030. This shows that residents of Jersey City rely on the bike sharing service based on its cost-effectiveness in comparison to other modes of transportation. 
+
+## Conclusion 
+
+This Tableau analysis gives a brief overview of the trends and patterns in Citibike usage in the recent three month period. One of the insightful phenomenons observed is the high reliance on bikes by residents of Jersey City, New Jersey, especially during weekdays in rush hours. This gathered information serves as a valuable resource for use in further research of Citibike. 
+
+
+
+
+
+
+
 
 
 
