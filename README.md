@@ -71,6 +71,7 @@ Consist of a homepage and four corresponding dashboards were designed to provide
 
 * Incldues maps for popular starting and ending stations. 
 
+<img width="1005" alt="Screenshot 2023-06-29 at 9 38 08 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/db346518-2442-4270-8e16-8ebe509ae310">
 
 
 
