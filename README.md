@@ -39,7 +39,14 @@ Ensure your presentation is professional, logical, and visually appealing.
 
 Used csv files covering a period of three months from March, April and June, 2023. As they contained similar information, they were merged using 'Union' in Tableau. The csv used in Tableau was a combined form of the three csv files. 
 
-# Dashboards 
+# Dashboards
+
+A Homepage and four corresponding dashboards were designed to provide visualization and comprehensive analysis of data. 
+
+## Homepage 
+
+<img width="1005" alt="Screenshot 2023-06-29 at 9 35 49 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/a7df1419-8966-4c8d-8b66-c86f3e0c2f42">
+
 
 
 
