@@ -41,11 +41,35 @@ Used csv files covering a period of three months from March, April and June, 202
 
 # Dashboards
 
-A Homepage and four corresponding dashboards were designed to provide visualization and comprehensive analysis of data. 
+Consist of a homepage and four corresponding dashboards were designed to provide visualization and comprehensive analysis of data. 
 
 ## Homepage 
 
+* This page provides general introduction about the project and gives options to navigate to page of interest. 
+
 <img width="1005" alt="Screenshot 2023-06-29 at 9 35 49 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/a7df1419-8966-4c8d-8b66-c86f3e0c2f42">
+
+## Station Information 
+
+* Provides information on cumulative number of start and end stations, the total bikes used and the total trip duration of bike rides. There is also an alaysis of popular stations to start and end a journey. Furthermore, one can see the distance traveled by different bikes in the station.
+  
+<img width="1007" alt="Screenshot 2023-06-29 at 9 37 33 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/686025bf-e541-4a18-9408-d567389743e5">
+
+## Trip Information 
+
+* Displays analysis of bike usage based on days of the week within the three months. There is also data on the types of bikes used for the trips. 
+  
+<img width="1004" alt="Screenshot 2023-06-29 at 9 37 45 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/d478771f-299a-414e-a81d-257f8260f958">
+
+## User Information 
+
+* Presents a heatmap of bike usage based on weekdays and specific time of day. This page also includes info on member status. 
+
+<img width="1009" alt="Screenshot 2023-06-29 at 9 37 57 PM" src="https://github.com/svafaeva93/Tableau_/assets/124627601/5c7e68b2-0040-4881-a47b-06da85484aec">
+
+## Map 
+
+* Incldues maps for popular starting and ending stations. 
 
 
 
